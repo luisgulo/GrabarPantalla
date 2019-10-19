@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 19 Oct 2019 12:00:00 +0000
+Source: grabarpantalla-gtk
+Binary: grabarpantalla-gtk
+Architecture: source all
+Version: 1.0.9-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ grabarpantalla-gtk - gtk package for GrabarPantalla
+Changes:
+ grabarpantalla-gtk (1.0.9-1) unstable; urgency=low
+ .
+   * Corregir posicion de inicio de prueba inicial
+Checksums-Sha1:
+ bd0c40fab1c16a49c34f9d48ec6573c8687d9a16 567 grabarpantalla-gtk_1.0.9-1.dsc
+ a0465d11453c528bc8243533b93bbf7edc519b30 818 grabarpantalla-gtk_1.0.9-1.tar.gz
+ d78f359f1cfc04c9a39e5ea93b7fbc11cdc2c2d0 1320 grabarpantalla-gtk_1.0.9-1_all.deb
+ 8e9f5fef1271067c30db9daafc57c2fd29d15b63 5252 grabarpantalla-gtk_1.0.9-1_amd64.buildinfo
+Checksums-Sha256:
+ bb0f06f4b25807b6079939e5e22126cbe07d5f617bb70618a3893439da09788b 567 grabarpantalla-gtk_1.0.9-1.dsc
+ db91f78e1ca1e484d3bf4138a73e04a890a7ba0356e897db708e0c0f818bf701 818 grabarpantalla-gtk_1.0.9-1.tar.gz
+ 8424c917256046d41027f2fd1cbea251779ad15e3f294e11d884efff039d386e 1320 grabarpantalla-gtk_1.0.9-1_all.deb
+ 6052bf518745f6aaabcd8d6d04c2b5dcb55c16702db4cf8663eb124e38258cdf 5252 grabarpantalla-gtk_1.0.9-1_amd64.buildinfo
+Files:
+ 824fb21c4bd8b69ce06e1f08a502aa10 567 contrib/video optional grabarpantalla-gtk_1.0.9-1.dsc
+ 9548184956a15669c4295a5b64529b1f 818 contrib/video optional grabarpantalla-gtk_1.0.9-1.tar.gz
+ eea78f36f756fa78d41f838e7a0c16b7 1320 contrib/video optional grabarpantalla-gtk_1.0.9-1_all.deb
+ 588d7072ab9dcef10e50da1e70fcc79c 5252 contrib/video optional grabarpantalla-gtk_1.0.9-1_amd64.buildinfo

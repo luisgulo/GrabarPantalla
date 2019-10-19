@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 19 Oct 2019 12:00:00 +0000
+Source: grabarpantalla-qt4
+Binary: grabarpantalla-qt4
+Architecture: source all
+Version: 1.0.9-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ grabarpantalla-qt4 - qt4 package for GrabarPantalla
+Changes:
+ grabarpantalla-qt4 (1.0.9-1) unstable; urgency=low
+ .
+   * Corregir posicion de inicio de prueba inicial
+Checksums-Sha1:
+ 2d9eea01fc5140952adcd597b7dcbd4148a82dbe 567 grabarpantalla-qt4_1.0.9-1.dsc
+ 57ef6e9c91b973edc9a0eadc01acbcf8b9681d6c 814 grabarpantalla-qt4_1.0.9-1.tar.gz
+ 9402d06a49d55c275d3259cce9d0f5414f3ca354 1320 grabarpantalla-qt4_1.0.9-1_all.deb
+ c9f583e3a42a511167c272b4f17a21186431e50f 5252 grabarpantalla-qt4_1.0.9-1_amd64.buildinfo
+Checksums-Sha256:
+ c0f83de4c143a59eb6f77867cea74cd80355731bc95369f8bf42cc96db8dd638 567 grabarpantalla-qt4_1.0.9-1.dsc
+ af4d74856303a3d691a35e9a33d7150268002e8528f50531f46ec4a0a67be831 814 grabarpantalla-qt4_1.0.9-1.tar.gz
+ ec35551c602ac6a9e7990d725b8a8c2a55122ea7d511c65bc730e1fa63347464 1320 grabarpantalla-qt4_1.0.9-1_all.deb
+ 9ca7eb3f0bad176bfdb17e5cef457b99917626cc4af5ae0ced433b320962a06e 5252 grabarpantalla-qt4_1.0.9-1_amd64.buildinfo
+Files:
+ 19d982f3c82a30fb307408c541d2798b 567 contrib/video optional grabarpantalla-qt4_1.0.9-1.dsc
+ d73e5ea411c781b5d881bde38d836514 814 contrib/video optional grabarpantalla-qt4_1.0.9-1.tar.gz
+ aaabe0303a80540ffe2b04c9b5888d14 1320 contrib/video optional grabarpantalla-qt4_1.0.9-1_all.deb
+ 5bf6549587a371136fdbc7a38b224923 5252 contrib/video optional grabarpantalla-qt4_1.0.9-1_amd64.buildinfo
