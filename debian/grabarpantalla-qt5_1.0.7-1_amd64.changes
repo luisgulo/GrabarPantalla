@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 19 Oct 2019 12:00:00 +0000
+Source: grabarpantalla-qt5
+Binary: grabarpantalla-qt5
+Architecture: source all
+Version: 1.0.7-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ grabarpantalla-qt5 - qt5 package for GrabarPantalla
+Changes:
+ grabarpantalla-qt5 (1.0.7-1) unstable; urgency=low
+ .
+   * Version inicial
+Checksums-Sha1:
+ 95ac3b828f1e0711ba3ab276ef80f170b47b21a3 567 grabarpantalla-qt5_1.0.7-1.dsc
+ 4c4323f7236a0e1363c7c963333e31c4418b5b9f 789 grabarpantalla-qt5_1.0.7-1.tar.gz
+ f376cd040e797f49a41f313a9a30450756e0659f 1288 grabarpantalla-qt5_1.0.7-1_all.deb
+ ee1369bf58971cb07a74665ceef4095d1f9d4853 5252 grabarpantalla-qt5_1.0.7-1_amd64.buildinfo
+Checksums-Sha256:
+ 32b0c564569980e40098bae688c3d75e495d2db4de2a61bcf379518260f138f7 567 grabarpantalla-qt5_1.0.7-1.dsc
+ 697faa8a0beeb6cb0588409479bf45b15f05e70e90b421b4232978d5059b2577 789 grabarpantalla-qt5_1.0.7-1.tar.gz
+ bd675335e98e713a52b39acbeab5098cc4cb07f7c88c563ee8a323ef14ebf149 1288 grabarpantalla-qt5_1.0.7-1_all.deb
+ 6be5ab34f0526efd67c8947a76b915724594a54ab6c2d3a306b577b135ae0125 5252 grabarpantalla-qt5_1.0.7-1_amd64.buildinfo
+Files:
+ eee711a9efda527cd40fca3e917caa0b 567 contrib/video optional grabarpantalla-qt5_1.0.7-1.dsc
+ 6574a088b4bf733ea245eeb20ab26afc 789 contrib/video optional grabarpantalla-qt5_1.0.7-1.tar.gz
+ 81b3ab0681dc3163b40caa64d3520a3b 1288 contrib/video optional grabarpantalla-qt5_1.0.7-1_all.deb
+ 0c780939e93d214a6cd3f7c0e8f01ab3 5252 contrib/video optional grabarpantalla-qt5_1.0.7-1_amd64.buildinfo
