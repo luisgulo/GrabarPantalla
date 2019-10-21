@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 21 Oct 2019 12:00:00 +0000
+Source: grabarpantalla
+Binary: grabarpantalla
+Architecture: source all
+Version: 1.0.13-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ grabarpantalla - Grabar pantalla con ffmpeg.
+Changes:
+ grabarpantalla (1.0.13-1) unstable; urgency=low
+ .
+   * Permite grabar TODAS las pantallas o sólo la Pantalla 1
+Checksums-Sha1:
+ 7ff0acdf25cd33d9124cd36d6e29e705704a7665 1052 grabarpantalla_1.0.13-1.dsc
+ bff7b98b9504f632a8093c24d5d8abd729d8a95d 1388 grabarpantalla_1.0.13-1.diff.gz
+ c8700c61017c62351b2d1965105c923386ba43c5 66720 grabarpantalla_1.0.13-1_all.deb
+ c5abb298480e0d3b44ea22b1b9c9a984a56c12b8 9645 grabarpantalla_1.0.13-1_amd64.buildinfo
+Checksums-Sha256:
+ a2c74fba98f90a28a20a2d9a460107198105f2487fbe3ad4bb54c4c1963d2372 1052 grabarpantalla_1.0.13-1.dsc
+ 64b399b1ac38378bd2049255796bc0f5f33b8a068a22df455ab0311da418899e 1388 grabarpantalla_1.0.13-1.diff.gz
+ 39fb7396ad6c5314e8a7100c6128087c1a27d69e81e4d53a35970e479b9a67c0 66720 grabarpantalla_1.0.13-1_all.deb
+ 7ce8dc4926abca1adfb629d2622cad2638dbf685624c1a1d809a315b91be0f91 9645 grabarpantalla_1.0.13-1_amd64.buildinfo
+Files:
+ 222a062e5e2ac17df78c2a919e0af663 1052 contrib/video optional grabarpantalla_1.0.13-1.dsc
+ 2f7c9a4545f0dec7ebefd5dfff06434a 1388 contrib/video optional grabarpantalla_1.0.13-1.diff.gz
+ 7684acdc2efda213a9d33e8917c40923 66720 contrib/video optional grabarpantalla_1.0.13-1_all.deb
+ 24b10f7f5669a29b19f4adaf7d625b50 9645 contrib/video optional grabarpantalla_1.0.13-1_amd64.buildinfo
